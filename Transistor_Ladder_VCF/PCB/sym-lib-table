@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Transistor_Ladder_VCF-cache)(type Legacy)(uri ${KIPRJMOD}/Transistor_Ladder_VCF-cache.lib)(options "")(descr ""))
+  (lib (name Transistor_Ladder_VCF-rescue)(type Legacy)(uri ${KIPRJMOD}/Transistor_Ladder_VCF-rescue.lib)(options "")(descr ""))
+)

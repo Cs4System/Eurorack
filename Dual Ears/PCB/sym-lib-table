@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name dual_ears-cache)(type Legacy)(uri ${KIPRJMOD}/dual_ears-cache.lib)(options "")(descr ""))
+  (lib (name dual_ears-rescue)(type Legacy)(uri ${KIPRJMOD}/dual_ears-rescue.lib)(options "")(descr ""))
+)
