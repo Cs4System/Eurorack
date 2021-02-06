@@ -13,7 +13,8 @@
 
 
 
-## Transistor Ladder VCF
+## [Transistor Ladder VCF](https://github.com/Cs4System/Eurorack/tree/main/Transistor_Ladder_VCF)
+
 - VCF based on the Moog Transistor Ladder Filter
 - Compensation for loss of bass in high resonace settings via potentiometer
 - 6,12,18,24 dB/Oct selectable via potentiometer or CV!
@@ -23,7 +24,7 @@
 - 8HP
 - CC-BY-SA 4.0
 
-## Dual Ears
+## [Dual Ears](https://github.com/Cs4System/Eurorack/tree/main/Dual%20Ears)
 - Modification of Mutable Instruments Ears
 - 2 seperat channels of original design, no internal contact microphone
 - no jumpers, fixed values for fast Envelope Follower and Gate-Threshold of 1V 
