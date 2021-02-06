@@ -32,5 +32,6 @@
 - CC-BY-SA 3.0, Orginal schematics by Emilie Gillet
 
 
-# Order and build
-- If you are interested in a set of PCB+panel or a finished build please let me know via Email: lorenz-neumann[at]gmx.de
+## Order
+- Preorder: If you are interested in a set of PCB+panel or a finished build please let me know via Email: lorenz-neumann[at]gmx.de
+
