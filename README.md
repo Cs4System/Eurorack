@@ -32,4 +32,4 @@
 
 
 # Order and build
-- If you are interessted in a set of PCB+panel or a finished build please let me know via Email: lorenz-neumann[at]gmx.de
+- If you are interested in a set of PCB+panel or a finished build please let me know via Email: lorenz-neumann[at]gmx.de
