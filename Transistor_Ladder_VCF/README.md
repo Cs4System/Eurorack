@@ -8,6 +8,7 @@
 - Seperat V/Oct input.
 - Input-Drive indicator LED
 - 8HP
+<img src="picture.jpg" alt="picture" width="200"/>
 
 - All files are published under CC-BY-SA 4.0 if not marked differently
 - DO NOT USE COMMERCIALLY!
