@@ -19,7 +19,11 @@
 - Any feedback and collaboration is very welcome!
 - Please feel free to [open an issue on the issues tab](https://github.com/Cs4System/Eurorack/issues)
 
+## How to get involved:
+For ongoing discussion see:
+https://www.muffwiggler.com/forum/viewtopic.php?f=17&t=244412&p=3457366#p3457366
 
 ## Order
 - Preorder: If you are interested in a set of PCB+panel or a finished build please let me know via Email: lorenz-neumann[at]gmx.de
+- Please note, the hole project is still beta testing!
 
