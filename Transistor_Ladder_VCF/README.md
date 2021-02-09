@@ -8,6 +8,7 @@
 - Seperat V/Oct input.
 - Input-Drive indicator LED
 - 8HP
+- small and dens SMD build (0603, SOIC, SOT-363!)
 <img src="picture.jpg" alt="picture" width="200"/>
 
 - All files are published under CC BY-NC-SA 4.0 if not marked differently
