@@ -23,16 +23,16 @@
 - Input-Drive indicator LED
 - 8HP
 - CC BY-NC-SA 4.0
-- small and dens SMD build (0603, SOIC, SOT-363!)
+- small and dense SMD build (0603, SOIC, SOT-363!)
 
 ## [Dual Ears](https://github.com/Cs4System/Eurorack/tree/main/Dual%20Ears)
+- BETA!
 - Modification of Mutable Instruments Ears
 - 2 seperat channels of original design, no internal contact microphone
 - no jumpers, fixed values for fast Envelope Follower and Gate-Threshold of 1V 
 - 4HP
 - CC-BY-SA 3.0, Orginal schematics by Emilie Gillet
-- small and dens SMD build (0603, TSSOP)
+- small and dense SMD build (0603, TSSOP)
 
 ## Order
-- Preorder: If you are interested in a set of PCB+panel or a finished build please let me know via Email: lorenz-neumann[at]gmx.de
-
+- Preorder: If you are interested in a set of PCB+panel or a finished build please let me know via Email: lorenz-neumann[at]gmx.de 
