@@ -26,7 +26,7 @@ If you want to publish derivative work, please do so under same license as origi
 - 8HP
 - CC BY-NC-SA 4.0
 - small and dense SMD build (0603, SOIC, SOT-363!)
-- PCB and Panel will be available via [Pusherman](https://pushermanproductions.com/)
+- PCB and Panel will be available soon via [Pusherman](https://pushermanproductions.com/)
 
 ## [Dual Ears](https://github.com/Cs4System/Eurorack/tree/main/Dual%20Ears)
 - BETA!
