@@ -35,4 +35,4 @@
 - small and dense SMD build (0603, TSSOP)
 
 ## Order
-- Preorder: If you are interested in a set of PCB+panel or a finished build please let me know via Email: lorenz-neumann[at]gmx.de 
+- Preorder: If you are interested in a set of PCB+panel or a finished build please let me know via Muffwiggler 
