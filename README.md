@@ -6,9 +6,11 @@
 
 - Build for yourself or for a friend, but do not sell builds, PCBs, pannels or any parts of the designes in this repository! 
 
-- Feel free to modify, copy and use all files provided here. If you want to publish derivative work, please do so under same license as original
+- Feel free to modify, copy and use all files provided here. 
+If you want to publish derivative work, please do so under same license as original
 
 - Any feedback and collaboration is very welcome!
+
 - Please feel free to [open an issue on the issues tab](https://github.com/Cs4System/Eurorack/issues)
 
 
@@ -24,6 +26,7 @@
 - 8HP
 - CC BY-NC-SA 4.0
 - small and dense SMD build (0603, SOIC, SOT-363!)
+- PCB and Panel will be available via [Pusherman](https://pushermanproductions.com/)
 
 ## [Dual Ears](https://github.com/Cs4System/Eurorack/tree/main/Dual%20Ears)
 - BETA!
@@ -34,5 +37,4 @@
 - CC-BY-SA 3.0, Orginal schematics by Emilie Gillet
 - small and dense SMD build (0603, TSSOP)
 
-## Order
-- Preorder: If you are interested in a set of PCB+panel or a finished build please let me know via Muffwiggler 
+
