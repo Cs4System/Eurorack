@@ -571,11 +571,11 @@ Bias1
 Text GLabel 18950 7450 3    60   Input ~ 0
 CurrentSink
 Text Notes 8600 4450 0    60   ~ 0
-Frequency tune\n
+Fequency tune\n
 Text Notes 7350 5750 0    60   ~ 0
-Frequency Offset\n\n
+Fequency Offset\n\n
 Text Notes 7950 4750 0    60   ~ 0
-Frequency\n\n\n
+Fequency\n\n\n
 $Comp
 L Transistor_Ladder_VCF-rescue:Conn_02x05_Odd_Even-Transistor_Ladder_VCF-rescue J8
 U 1 1 5E8CAC52
