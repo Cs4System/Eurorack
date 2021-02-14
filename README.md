@@ -27,6 +27,7 @@ If you want to publish derivative work, please do so under same license as origi
 - CC BY-NC-SA 4.0
 - small and dense SMD build (0603, SOIC, SOT-363!)
 - PCB and Panel will be available at [Pusherman](https://pushermanproductions.com/) soon.
+. Quick demo: https://youtu.be/XMdGtwIK5IQ
 
 ## [Dual Ears](https://github.com/Cs4System/Eurorack/tree/main/Dual%20Ears)
 - BETA!
