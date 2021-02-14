@@ -9,6 +9,7 @@
 - Input-Drive indicator LED
 - 8HP
 - small and dense SMD build (0603, SOIC, SOT-363!) Not a beginner build, please be sure to have some SMD-soldering practice!
+- quick demo:  https://youtu.be/XMdGtwIK5IQ
 <img src="picture.jpg" alt="picture" width="200"/>
 
 - All files are published under CC BY-NC-SA 4.0 
