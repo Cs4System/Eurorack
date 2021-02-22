@@ -26,7 +26,7 @@ For ongoing discussion see:
 https://www.muffwiggler.com/forum/viewtopic.php?f=17&t=244412&p=3457366#p3457366
 
 ## Order
-- Preorder: If you are interested in a set of PCB+panel or a finished build please let me know via Muffwiggler
+- Preorder: If you are interested in a set of PCB+panel, please let me know via Muffwiggler
 - Please note, the hole project is still in beta testing!
 - PCB and Panel will be available at [Pusherman](https://pushermanproductions.com/) soon.
 
