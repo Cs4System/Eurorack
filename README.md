@@ -26,6 +26,7 @@ If you want to publish derivative work, please do so under same license as origi
 - 8HP
 - CC BY-NC-SA 4.0
 - small and dense SMD build (0603, SOIC, SOT-363!)
+- 45mA @ +12V and 25mA @ -12V
 - PCB and Panel will be available at [Pusherman](https://pushermanproductions.com/) soon.
 - Quick demo: https://youtu.be/XMdGtwIK5IQ
 
