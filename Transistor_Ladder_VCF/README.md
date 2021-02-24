@@ -9,6 +9,7 @@
 - Input-Drive indicator LED
 - 8HP
 - small and dense SMD build (0603, SOIC, SOT-363!) Not a beginner build, please be sure to have some SMD-soldering practice!
+- 45mA @ +12V and 25mA @ -12V
 - quick demo:  https://youtu.be/XMdGtwIK5IQ
 <img src="picture.jpg" alt="picture" width="200"/>
 
@@ -25,7 +26,7 @@ For ongoing discussion see:
 https://www.muffwiggler.com/forum/viewtopic.php?f=17&t=244412&p=3457366#p3457366
 
 ## Order
-- Preorder: If you are interested in a set of PCB+panel or a finished build please let me know via Muffwiggler
+- Preorder: If you are interested in a set of PCB+panel, please let me know via Muffwiggler
 - Please note, the hole project is still in beta testing!
 - PCB and Panel will be available at [Pusherman](https://pushermanproductions.com/) soon.
 
