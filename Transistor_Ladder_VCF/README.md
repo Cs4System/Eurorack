@@ -23,10 +23,11 @@
 
 ## How to get involved:
 For ongoing discussion see:
-https://www.muffwiggler.com/forum/viewtopic.php?f=17&t=244412&p=3457366#p3457366
+https://www.modwiggler.com/forum/viewtopic.php?f=17&t=244412&p=3457366#p3457366
 
 ## Order
-- Preorder: If you are interested in a set of PCB+panel, please let me know via Muffwiggler
-- Please note, the hole project is still in beta testing!
+https://synthcube.com/cart/lorenz-neumann-diy-transistor-ladder-filter
+
 - PCB and Panel will be available at [Pusherman](https://pushermanproductions.com/) soon.
+- Direct order: If you are interested in a set of PCB+Panel, please let me know via [Modwiggler](https://www.modwiggler.com/forum/viewtopic.php?f=17&t=244412&p=3457366#p3457366) (Muffwiggler)
 
