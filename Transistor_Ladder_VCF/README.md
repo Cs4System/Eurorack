@@ -2,10 +2,10 @@
 # Transistor Ladder VCF
 
 - VCF based on the Moog Transistor Ladder Filter
-- Compensation for loss of bass in high resonace settings via potentiometer
+- Compensation for loss of bass in high resonacne settings via potentiometer
 - 6,12,18,24 dB/Oct selectable via potentiometer or CV!
 - 2 Inputs with attenuator for audio and CV
-- Seperat V/Oct input.
+- Seperate V/Oct input.
 - Input-Drive indicator LED
 - 8HP
 - small and dense SMD build (0603, SOIC, SOT-363!) Not a beginner build, please be sure to have some SMD-soldering practice!
