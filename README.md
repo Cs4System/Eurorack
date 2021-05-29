@@ -18,10 +18,10 @@ If you want to publish derivative work, please do so under same license as origi
 ## [Transistor Ladder VCF](https://github.com/Cs4System/Eurorack/tree/main/Transistor_Ladder_VCF)
 
 - VCF based on the Moog Transistor Ladder Filter
-- Compensation for loss of bass in high resonace settings via potentiometer
+- Compensation for loss of bass in high resonance settings via potentiometer
 - 6,12,18,24 dB/Oct selectable via potentiometer or CV!
 - 2 Inputs with attenuator for audio and CV
-- Seperat V/Oct input.
+- Seperate V/Oct input.
 - Input-Drive indicator LED
 - 8HP
 - CC BY-NC-SA 4.0
