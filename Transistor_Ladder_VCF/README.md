@@ -2,7 +2,7 @@
 # Transistor Ladder VCF
 
 - VCF based on the Moog Transistor Ladder Filter
-- Compensation for loss of bass in high resonacne settings via potentiometer
+- Compensation for loss of bass in high resonance settings via potentiometer
 - 6,12,18,24 dB/Oct selectable via potentiometer or CV!
 - 2 Inputs with attenuator for audio and CV
 - Seperate V/Oct input.
