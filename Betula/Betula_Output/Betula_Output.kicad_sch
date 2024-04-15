@@ -7489,10 +7489,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0fe52f60-afee-45cf-a30b-9e46f47a52f9")
 		(property "Reference" "U2"
-			(at 125.73 60.96 0)
+			(at 125.73 74.422 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7500,7 +7499,7 @@
 			)
 		)
 		(property "Value" "LM324"
-			(at 125.73 63.5 0)
+			(at 125.73 76.962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7594,10 +7593,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "101fe96a-9c12-44ae-bf17-5ef904a36f45")
 		(property "Reference" "U5"
-			(at 314.96 256.54 0)
+			(at 314.96 271.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7605,7 +7603,7 @@
 			)
 		)
 		(property "Value" "LM324"
-			(at 314.96 259.08 0)
+			(at 314.96 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8458,10 +8456,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "24d0216b-82a5-4738-864d-5654467d288d")
 		(property "Reference" "U2"
-			(at 127 193.04 0)
+			(at 127 207.772 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8469,7 +8466,7 @@
 			)
 		)
 		(property "Value" "LM324"
-			(at 127 195.58 0)
+			(at 127 210.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8834,10 +8831,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "32f64a39-25ed-4370-bebf-59271f3b0205")
 		(property "Reference" "U2"
-			(at 127 254 0)
+			(at 127 270.002 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8845,7 +8841,7 @@
 			)
 		)
 		(property "Value" "LM324"
-			(at 127 256.54 0)
+			(at 127 272.542 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10184,10 +10180,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5022c25d-4cc2-45b6-8af1-93302f626c48")
 		(property "Reference" "U5"
-			(at 314.96 195.58 0)
+			(at 314.96 211.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10195,7 +10190,7 @@
 			)
 		)
 		(property "Value" "LM324"
-			(at 314.96 198.12 0)
+			(at 314.96 214.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12471,10 +12466,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9a157aaa-59f8-4a1e-9c07-458226dec3cd")
 		(property "Reference" "U2"
-			(at 125.73 121.92 0)
+			(at 125.73 136.398 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12482,7 +12476,7 @@
 			)
 		)
 		(property "Value" "LM324"
-			(at 125.73 124.46 0)
+			(at 125.73 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12939,10 +12933,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9ead2608-2a49-4c6e-8f51-14a890b14810")
 		(property "Reference" "U5"
-			(at 313.69 124.46 0)
+			(at 313.69 139.192 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12950,7 +12943,7 @@
 			)
 		)
 		(property "Value" "LM324"
-			(at 313.69 127 0)
+			(at 313.69 141.732 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13535,10 +13528,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a4dfc53c-5d9f-4e07-bfee-d4a0bcfbfd41")
 		(property "Reference" "U5"
-			(at 313.69 63.5 0)
+			(at 313.69 79.248 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13546,7 +13538,7 @@
 			)
 		)
 		(property "Value" "LM324"
-			(at 313.69 66.04 0)
+			(at 313.69 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)

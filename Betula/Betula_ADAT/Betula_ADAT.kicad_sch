@@ -1344,10 +1344,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "51927570-a5f5-4e9a-b2f9-f0b9410c4340")
 		(property "Reference" "C3"
-			(at 163.83 96.5199 0)
+			(at 175.514 96.774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1356,7 +1355,7 @@
 			)
 		)
 		(property "Value" "30p"
-			(at 163.83 99.0599 0)
+			(at 175.514 99.314 0)
 			(effects
 				(font
 					(size 1.27 1.27)
