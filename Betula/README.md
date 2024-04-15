@@ -16,5 +16,5 @@
 - 180mA @ +12V and 100mA @ -12V
 (Without connected ADTA-signal:
 14mA @ +12V and 0mA @ -12V)
-<img src="pictures/main.jpg" alt="Picture" width="200"/>
-<img src="pictures/assembly.png" alt="Picture" width="375"/>
+<img src="Pictures/main.jpg" alt="Picture" width="200"/>
+<img src="Pictures/assembly.png" alt="Picture" width="375"/>
