@@ -19931,28 +19931,6 @@
 			)
 		)
 	)
-	(global_label "12V_ IN"
-		(shape input)
-		(at 298.45 388.62 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "228dfad1-fc24-4eaa-b836-22a3ef953600")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 288.3717 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "-REF"
 		(shape input)
 		(at 513.715 229.87 180)
