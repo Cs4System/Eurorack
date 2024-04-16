@@ -13,6 +13,8 @@ If you want to publish derivative work, please do so under same license as origi
 
 - Please feel free to [open an issue on the issues tab](https://github.com/Cs4System/Eurorack/issues)
 
+**Have you built a module and would like to say thank you?** https://paypal.me/LorenzNeumann
+
 ## [Blattwerk - Betula](https://github.com/Cs4System/Eurorack/tree/main/Betula)
 
 
@@ -44,7 +46,7 @@ If you want to publish derivative work, please do so under same license as origi
 - CC BY-NC-SA 4.0
 - small and dense SMD build (0603, SOIC, SOT-363!)
 - 45mA @ +12V and 25mA @ -12V
-- PCB and Panel  is available at [synthCube](https://synthcube.com/cart/lorenz-neumann-diy-transistor-ladder-filter) and soon at [Pusherman](https://pushermanproductions.com/).
+- PCB and Panel  is available at [synthCube](https://synthcube.com/cart/lorenz-neumann-diy-transistor-ladder-filter)
 - Quick demo: https://youtu.be/XMdGtwIK5IQ
 
 ## [Dual Ears](https://github.com/Cs4System/Eurorack/tree/main/Dual%20Ears)

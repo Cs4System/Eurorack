@@ -26,8 +26,8 @@ For ongoing discussion see:
 https://www.modwiggler.com/forum/viewtopic.php?f=17&t=244412&p=3457366#p3457366
 
 ## Order
-https://synthcube.com/cart/lorenz-neumann-diy-transistor-ladder-filter
 
-- PCB and Panel will be available at [Pusherman](https://pushermanproductions.com/) soon.
-- Direct order: If you are interested in a set of PCB+Panel, please let me know via [Modwiggler](https://www.modwiggler.com/forum/viewtopic.php?f=17&t=244412&p=3457366#p3457366) (Muffwiggler)
+
+- PCB and Panel are be available at [sythCube](https://synthcube.com/cart/lorenz-neumann-diy-transistor-ladder-filter)
+- Direct order: If you are interested in a set of PCB+Panel, please write a mail to: blattwerk-audio [at] posteo.de or let me know via [Modwiggler](https://www.modwiggler.com/forum/viewtopic.php?f=17&t=244412&p=3457366#p3457366)
 

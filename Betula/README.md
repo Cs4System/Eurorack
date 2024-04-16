@@ -16,5 +16,8 @@
 - 180mA @ +12V and 100mA @ -12V
 (Without connected ADTA-signal:
 14mA @ +12V and 0mA @ -12V)
+
+For comments and feedback, please visit [Modwiggler](https://www.modwiggler.com/forum/viewtopic.php?t=283803&sid=8c5b24ebdf0f756f3375e19afba1d032)
+
 <img src="Pictures/main.jpg" alt="Picture" width="200"/>
 <img src="Pictures/assembly.png" alt="Picture" width="375"/>
