@@ -4,7 +4,7 @@
 - 8 channels In/Out ADAT Interface
 - Outputs are DC coupled
 - Inputs can be switched with jumpers between AC and DC coupling (In 2 groups: channel 1-4 and channel 5-8)
-- Low noise: -100dB
+- Low noise: -110dB
 - Low THD: >0.01% @ 1kHz, -6dB(+-5Vpp)
 - 22kOhm input-impedance, 1kOhm output-impedance
 - 8HP
