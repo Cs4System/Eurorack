@@ -173,6 +173,13 @@
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
+    "ipc2581": {
+      "dist": "",
+      "distpn": "",
+      "internal_id": "",
+      "mfg": "",
+      "mpn": ""
+    },
     "layer_presets": [],
     "viewports": []
   },
@@ -185,7 +192,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Betula_Panel.kicad_pro",
+    "filename": "Betula_Panel_soldermask.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -220,8 +227,11 @@
       "gencad": "",
       "idf": "",
       "netlist": "../../../../../../../Program Files/KiCad/6.0/",
+      "plot": "",
+      "pos_files": "",
       "specctra_dsn": "",
       "step": "",
+      "svg": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
