@@ -540,7 +540,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "Pipe.net",
-      "plot": "gerber/",
+      "plot": "main/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
