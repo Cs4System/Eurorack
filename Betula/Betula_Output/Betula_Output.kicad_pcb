@@ -50756,8 +50756,8 @@
 		(layer "Edge.Cuts")
 		(uuid "534b40a6-015f-4544-ac1c-5bf5fce41fd1")
 	)
-	(gr_text "BETULA       OUTPUT         V1.4\n\n"
-		(at 139.76 91.82 0)
+	(gr_text "BETULA     OUTPUT      V1.5.1\n\n"
+		(at 139.7 91.82 0)
 		(layer "B.SilkS")
 		(uuid "5f099131-1bc4-4711-b62b-c117a266e622")
 		(effects

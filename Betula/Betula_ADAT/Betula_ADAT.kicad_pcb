@@ -1735,8 +1735,8 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "Blattwerk Betula V1.4 ADAT In/Out"
-		(at 117.72 64.92 0)
+	(gr_text "Blattwerk Betula V1.5.1 ADAT In/Out"
+		(at 117.983 64.77 0)
 		(layer "B.SilkS")
 		(uuid "5b5567f3-e49e-46d2-b44a-ef4b0af07ec1")
 		(effects

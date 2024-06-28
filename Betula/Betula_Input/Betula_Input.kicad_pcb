@@ -49174,8 +49174,8 @@
 			)
 		)
 	)
-	(gr_text "BETULA        INPUT          V1.4\n"
-		(at 122.85 69.35 0)
+	(gr_text "BETULA      INPUT       V1.5.1\n"
+		(at 122.936 69.35 0)
 		(layer "F.SilkS")
 		(uuid "5a88cb05-b5bb-49f3-ac2b-b6e0de03ccc2")
 		(effects
