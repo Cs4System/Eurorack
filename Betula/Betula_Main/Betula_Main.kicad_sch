@@ -3924,6 +3924,151 @@
 				)
 			)
 		)
+		(symbol "Diode:1N5819"
+			(pin_numbers hide)
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N5819"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+				(at 0 -4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.vishay.com/docs/88525/1n5817.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "40V 1A Schottky Barrier Rectifier Diode, DO-41"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode Schottky"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "D*DO?41*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N5819_0_1"
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 0.635) (xy -1.905 1.27) (xy -1.27 1.27) (xy -1.27 -1.27) (xy -0.635 -1.27) (xy -0.635 -0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "1N5819_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "MyLib:74HC4050"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -5857,546 +6002,6 @@
 				)
 			)
 		)
-		(symbol "MyLib:PXO7803-500-M-TR"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "PS"
-				(at -10.16 5.842 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "PXO7803-500-M-TR"
-				(at -10.16 -5.842 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "CONV_PXO7803-500-M-TR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "SNAPEDA_PN" "PXO7803-500-M-TR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "CUI"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "1.0"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "4.5 mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "PXO7803-500-M-TR_0_0"
-				(rectangle
-					(start -10.16 -5.08)
-					(end 10.16 5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin input line
-					(at -15.24 2.54 0)
-					(length 5.08)
-					(name "+VIN"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 15.24 2.54 180)
-					(length 5.08)
-					(name "+VO"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -15.24 -2.54 0)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "MyLib:PXO7805-500-M-TR"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "PS"
-				(at -10.16 5.842 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "PXO7805-500-M-TR"
-				(at -10.16 -5.842 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "CONV_PXO7805-500-M-TR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "SNAPEDA_PN" "PXO7805-500-M-TR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "1.0"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "CUI"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "4.5 mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "PXO7805-500-M-TR_0_0"
-				(rectangle
-					(start -10.16 -5.08)
-					(end 10.16 5.08)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin input line
-					(at -15.24 2.54 0)
-					(length 5.08)
-					(name "+VIN"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 15.24 2.54 180)
-					(length 5.08)
-					(name "+VO"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -15.24 -2.54 0)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "MyLib:PXO7806-500-M-TR"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "PS"
-				(at -10.16 5.842 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "PXO7806-500-M-TR"
-				(at -10.16 -5.842 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "CONV_PXO7806-500-M-TR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "CUI"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "1.0"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "SNAPEDA_PN" "PXO7806-500-M-TR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "4.5 mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "PXO7806-500-M-TR_0_0"
-				(rectangle
-					(start -10.16 -5.08)
-					(end 10.16 5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin input line
-					(at -15.24 2.54 0)
-					(length 5.08)
-					(name "+VIN"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 15.24 2.54 180)
-					(length 5.08)
-					(name "+VO"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -15.24 -2.54 0)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "MyLib:V1401"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -7308,6 +6913,429 @@
 						)
 					)
 					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Regulator_Switching:R-783.3-0.5"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -3.81 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R-783.3-0.5"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT"
+				(at 1.27 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.recom-power.com/pdf/Innoline/R-78xx-0.5.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "500mA Step-Down DC/DC-Regulator, 4.75-18V input, 3.3V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "dc-dc recom Step-Down DC/DC-Regulator"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Converter*DCDC*RECOM*R*78E*0.5*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R-783.3-0.5_0_1"
+				(rectangle
+					(start -5.08 1.905)
+					(end 5.08 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "R-783.3-0.5_1_1"
+				(pin power_in line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Regulator_Switching:R-785.0-0.5"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -3.81 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R-785.0-0.5"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT"
+				(at 1.27 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.recom-power.com/pdf/Innoline/R-78xx-0.5.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "500mA Step-Down DC/DC-Regulator, 6.5-18V input, 5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "dc-dc recom Step-Down DC/DC-Regulator"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Converter*DCDC*RECOM*R*78E*0.5*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R-785.0-0.5_0_1"
+				(rectangle
+					(start -5.08 1.905)
+					(end 5.08 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "R-785.0-0.5_1_1"
+				(pin power_in line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Regulator_Switching:R-786.5-0.5"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -3.81 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R-786.5-0.5"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT"
+				(at 1.27 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.recom-power.com/pdf/Innoline/R-78xx-0.5.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "500mA Step-Down DC/DC-Regulator, 8-32V input, 6.5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "dc-dc recom Step-Down DC/DC-Regulator"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Converter*DCDC*RECOM*R*78E*0.5*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R-786.5-0.5_0_1"
+				(rectangle
+					(start -5.08 1.905)
+					(end 5.08 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "R-786.5-0.5_1_1"
+				(pin power_in line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8900,6 +8928,12 @@
 		)
 	)
 	(junction
+		(at 237.49 361.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "002e6709-3ac5-4015-b53a-3f90cfb5645d")
+	)
+	(junction
 		(at 289.56 370.84)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9098,10 +9132,22 @@
 		(uuid "1dc8bd40-47e5-4e83-a32a-883111ea1b68")
 	)
 	(junction
+		(at 237.49 341.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1f5ceb15-d527-481d-87c3-1842828e37e8")
+	)
+	(junction
 		(at 279.4 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1f6bf4f9-5929-42cc-87a1-878040b661e9")
+	)
+	(junction
+		(at 246.38 370.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "213bea10-c72e-4c93-97b3-ed891afc80da")
 	)
 	(junction
 		(at 496.57 271.145)
@@ -9188,12 +9234,6 @@
 		(uuid "2d1978dd-3960-4487-9446-3574c29453d2")
 	)
 	(junction
-		(at 238.76 370.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2d6496e9-6b7a-4e93-b583-b21380c64d3f")
-	)
-	(junction
 		(at 175.26 223.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9248,6 +9288,12 @@
 		(uuid "356ce332-8915-44e1-a4ac-75c73e84d477")
 	)
 	(junction
+		(at 255.27 382.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3573763d-5001-406e-a932-949b92aa760b")
+	)
+	(junction
 		(at 240.03 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9294,6 +9340,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3d2dd21d-a8b9-4c98-9b50-94fdc7ee2666")
+	)
+	(junction
+		(at 255.27 361.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3de61b70-188f-45cf-a957-a477f5cf7a77")
 	)
 	(junction
 		(at 121.92 229.87)
@@ -9884,6 +9936,12 @@
 		(uuid "a4538f02-5df1-405f-8701-2c58ad53ccd3")
 	)
 	(junction
+		(at 255.27 341.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4cfb66b-68e7-44e6-841a-b3460b50e599")
+	)
+	(junction
 		(at 536.575 164.465)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10224,6 +10282,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f19df8d6-d9cd-44ca-88dd-184f250e9ae4")
+	)
+	(junction
+		(at 237.49 382.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f2f80b25-6912-4c00-a412-a0cc67a8feac")
 	)
 	(junction
 		(at 93.345 152.4)
@@ -10949,16 +11013,6 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 341.63) (xy 285.75 341.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "13ce18a1-f7ec-44ed-83bc-2fdf9a0258e7")
-	)
-	(wire
-		(pts
 			(xy 152.4 140.97) (xy 152.4 141.605)
 		)
 		(stroke
@@ -10986,6 +11040,26 @@
 			(type default)
 		)
 		(uuid "147aee47-307e-4065-994a-db96905da1ad")
+	)
+	(wire
+		(pts
+			(xy 250.19 375.92) (xy 255.27 375.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14ee48c0-dbc0-408d-b24f-54e668bce300")
+	)
+	(wire
+		(pts
+			(xy 242.57 355.6) (xy 237.49 355.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14fe1867-c10f-47e9-b9e9-b47c73c967bd")
 	)
 	(wire
 		(pts
@@ -11046,16 +11120,6 @@
 			(type default)
 		)
 		(uuid "1831df78-da72-4c67-a26e-e7d51e95afab")
-	)
-	(wire
-		(pts
-			(xy 269.24 361.95) (xy 280.67 361.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1834d7a7-d14c-4142-ba44-1730a5271cbe")
 	)
 	(wire
 		(pts
@@ -11289,6 +11353,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 334.01) (xy 237.49 341.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1eea03da-2b77-45f4-8f79-8685a691cdbf")
+	)
+	(wire
+		(pts
 			(xy 240.03 142.24) (xy 264.16 142.24)
 		)
 		(stroke
@@ -11336,16 +11410,6 @@
 			(type default)
 		)
 		(uuid "1fbd76a0-786f-40f7-b0d4-6d49f8c68b09")
-	)
-	(wire
-		(pts
-			(xy 238.76 391.16) (xy 289.56 391.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ffde7de-6f24-4b55-8874-8b08c7381c6c")
 	)
 	(wire
 		(pts
@@ -11429,6 +11493,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 375.92) (xy 237.49 382.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "225e7135-7b2b-4ed8-aa70-4537cc17ead4")
+	)
+	(wire
+		(pts
 			(xy 388.62 231.14) (xy 383.54 231.14)
 		)
 		(stroke
@@ -11466,6 +11540,16 @@
 			(type default)
 		)
 		(uuid "2433b7b5-2ff9-4c50-81ac-fd76e72b073a")
+	)
+	(wire
+		(pts
+			(xy 255.27 355.6) (xy 255.27 361.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24b447f1-8825-4cb0-aa00-a837a5b3aa03")
 	)
 	(wire
 		(pts
@@ -11619,6 +11703,16 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 369.57) (xy 246.38 370.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28450cf9-76c5-438e-a640-9374388bbcdd")
+	)
+	(wire
+		(pts
 			(xy 386.08 198.12) (xy 386.08 195.58)
 		)
 		(stroke
@@ -11686,16 +11780,6 @@
 			(type default)
 		)
 		(uuid "28ff7bf4-9b34-40c9-8b47-b0c8fb02bfe4")
-	)
-	(wire
-		(pts
-			(xy 238.76 350.52) (xy 238.76 346.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2936ffea-3f40-468d-8cc9-fd1258f1f53a")
 	)
 	(wire
 		(pts
@@ -12019,6 +12103,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 355.6) (xy 237.49 361.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31ae0c99-5428-42d2-8134-f6d173b9c0a5")
+	)
+	(wire
+		(pts
 			(xy 70.485 218.44) (xy 99.06 218.44)
 		)
 		(stroke
@@ -12199,6 +12293,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 361.95) (xy 238.76 361.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3673e036-38af-47e3-ac89-fd91f225e700")
+	)
+	(wire
+		(pts
 			(xy 71.12 77.47) (xy 71.12 81.28)
 		)
 		(stroke
@@ -12239,7 +12343,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 370.84) (xy 238.76 370.84)
+			(xy 231.14 370.84) (xy 246.38 370.84)
 		)
 		(stroke
 			(width 0)
@@ -12346,6 +12450,16 @@
 			(type default)
 		)
 		(uuid "3a849f13-cb6d-40bc-9eb6-73f21ca842a7")
+	)
+	(wire
+		(pts
+			(xy 250.19 334.01) (xy 255.27 334.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b5cc29a-0315-49e6-95c9-c639bc065b13")
 	)
 	(wire
 		(pts
@@ -12599,6 +12713,16 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 375.92) (xy 237.49 375.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4199d380-c9f9-48ea-bc5d-c4ced88bdd58")
+	)
+	(wire
+		(pts
 			(xy 60.325 153.67) (xy 60.325 149.86)
 		)
 		(stroke
@@ -12729,7 +12853,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 382.27) (xy 238.76 382.27)
+			(xy 231.14 382.27) (xy 237.49 382.27)
 		)
 		(stroke
 			(width 0)
@@ -12756,6 +12880,16 @@
 			(type default)
 		)
 		(uuid "46648d93-e867-4481-9036-5188b28759a3")
+	)
+	(wire
+		(pts
+			(xy 246.38 349.25) (xy 246.38 350.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46831fb2-66bd-4b38-8ac2-2970e7454dda")
 	)
 	(wire
 		(pts
@@ -12989,6 +13123,16 @@
 	)
 	(wire
 		(pts
+			(xy 250.19 355.6) (xy 255.27 355.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d00679c-b6d0-41b6-b8fa-08cb7d545b6b")
+	)
+	(wire
+		(pts
 			(xy 290.83 90.17) (xy 294.64 90.17)
 		)
 		(stroke
@@ -13036,16 +13180,6 @@
 			(type default)
 		)
 		(uuid "4ec871d9-4622-4910-8966-e10845d64a0a")
-	)
-	(wire
-		(pts
-			(xy 238.76 387.35) (xy 238.76 391.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ee0bf93-8128-4d2b-9b96-f495b1963954")
 	)
 	(wire
 		(pts
@@ -13516,6 +13650,16 @@
 			(type default)
 		)
 		(uuid "5c8d526d-2b92-46df-a779-1f0a36d262ee")
+	)
+	(wire
+		(pts
+			(xy 246.38 370.84) (xy 289.56 370.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cb8c7ec-cbae-4c15-a471-843f5ec506ed")
 	)
 	(wire
 		(pts
@@ -14089,6 +14233,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 341.63) (xy 238.76 341.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c4b47fc-4ec8-4abf-aebb-af47bbb11967")
+	)
+	(wire
+		(pts
 			(xy 533.4 29.21) (xy 533.4 27.94)
 		)
 		(stroke
@@ -14236,16 +14390,6 @@
 			(type default)
 		)
 		(uuid "6f65aa62-65f0-43df-b7f8-501ab06b5289")
-	)
-	(wire
-		(pts
-			(xy 238.76 350.52) (xy 285.75 350.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6fdb2a33-06e7-43b1-b38c-50082294dc84")
 	)
 	(wire
 		(pts
@@ -14456,6 +14600,16 @@
 			(type default)
 		)
 		(uuid "75655647-cfdc-4589-88fe-08adde13d529")
+	)
+	(wire
+		(pts
+			(xy 254 361.95) (xy 255.27 361.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7653e3b6-fcfb-48cb-8228-97b181f38398")
 	)
 	(wire
 		(pts
@@ -14969,7 +15123,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 341.63) (xy 238.76 341.63)
+			(xy 231.14 341.63) (xy 237.49 341.63)
 		)
 		(stroke
 			(width 0)
@@ -15279,6 +15433,16 @@
 	)
 	(wire
 		(pts
+			(xy 254 341.63) (xy 255.27 341.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "870c392f-2cd5-481a-ae8e-356ccf56451e")
+	)
+	(wire
+		(pts
 			(xy 295.275 344.17) (xy 295.275 350.52)
 		)
 		(stroke
@@ -15339,7 +15503,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 361.95) (xy 238.76 361.95)
+			(xy 231.14 361.95) (xy 237.49 361.95)
 		)
 		(stroke
 			(width 0)
@@ -15386,16 +15550,6 @@
 			(type default)
 		)
 		(uuid "8b19d4f2-dbd0-4f4a-8061-5dcbb6436dc6")
-	)
-	(wire
-		(pts
-			(xy 269.24 382.27) (xy 280.035 382.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8b22793c-f8b1-4fdd-8c18-b975f773c172")
 	)
 	(wire
 		(pts
@@ -15486,6 +15640,16 @@
 			(type default)
 		)
 		(uuid "8d5bcbed-d66c-41e1-b44f-6a8bd2a0f775")
+	)
+	(wire
+		(pts
+			(xy 255.27 334.01) (xy 255.27 341.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d81f142-0256-4fe1-a0f6-548ac99437db")
 	)
 	(wire
 		(pts
@@ -16959,6 +17123,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 375.92) (xy 255.27 382.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b93c0c22-0d21-4c82-814a-8dfb29c9b79f")
+	)
+	(wire
+		(pts
 			(xy 290.195 192.405) (xy 312.42 192.405)
 		)
 		(stroke
@@ -16996,6 +17170,16 @@
 			(type default)
 		)
 		(uuid "ba35a600-d137-4410-aaa8-d492e9a4c305")
+	)
+	(wire
+		(pts
+			(xy 255.27 382.27) (xy 280.035 382.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba4f0dfb-ce7f-419a-ba66-d1ad144dbbf8")
 	)
 	(wire
 		(pts
@@ -17286,6 +17470,16 @@
 			(type default)
 		)
 		(uuid "c4be0d8e-0b77-4570-91b8-384c05612edb")
+	)
+	(wire
+		(pts
+			(xy 246.38 389.89) (xy 246.38 391.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4c13f5c-931e-4455-b673-229e1e2f1efa")
 	)
 	(wire
 		(pts
@@ -17839,6 +18033,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 341.63) (xy 285.75 341.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d49c15f3-e4c5-4a8d-a950-432931945465")
+	)
+	(wire
+		(pts
 			(xy 480.695 36.83) (xy 482.6 36.83)
 		)
 		(stroke
@@ -18149,13 +18353,13 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 370.84) (xy 289.56 370.84)
+			(xy 242.57 334.01) (xy 237.49 334.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "df47f480-60f2-4437-83bb-679d6ff4941c")
+		(uuid "df4b4e04-351f-4e29-8c22-b5928778945a")
 	)
 	(wire
 		(pts
@@ -18186,6 +18390,16 @@
 			(type default)
 		)
 		(uuid "e0b538a4-d694-434b-9a1e-926581e12000")
+	)
+	(wire
+		(pts
+			(xy 237.49 382.27) (xy 238.76 382.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1acbb62-b3cd-4b5c-bfdf-ed24d7c31a2b")
 	)
 	(wire
 		(pts
@@ -18319,6 +18533,16 @@
 	)
 	(wire
 		(pts
+			(xy 254 382.27) (xy 255.27 382.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e60fb893-040e-42b6-b71f-27f38b684a82")
+	)
+	(wire
+		(pts
 			(xy 170.18 220.98) (xy 170.18 223.52)
 		)
 		(stroke
@@ -18436,16 +18660,6 @@
 			(type default)
 		)
 		(uuid "e8f20dae-a8df-4a08-b97d-043994d2a881")
-	)
-	(wire
-		(pts
-			(xy 238.76 367.03) (xy 238.76 370.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e91982e8-790f-453d-9131-8c652caa7d5b")
 	)
 	(wire
 		(pts
@@ -18919,6 +19133,16 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 350.52) (xy 285.75 350.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f351ee56-f446-495a-a989-7f33762aaa15")
+	)
+	(wire
+		(pts
 			(xy 533.4 27.94) (xy 531.495 27.94)
 		)
 		(stroke
@@ -19066,6 +19290,16 @@
 			(type default)
 		)
 		(uuid "f898ab86-39b1-40b5-ad16-9f06e2718c4b")
+	)
+	(wire
+		(pts
+			(xy 255.27 361.95) (xy 280.67 361.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8d52d8a-3396-4597-b7c2-30e3447e65c2")
 	)
 	(wire
 		(pts
@@ -19266,6 +19500,16 @@
 			(type default)
 		)
 		(uuid "ff64ea8f-fa45-4809-b7f0-1820a0f2febe")
+	)
+	(wire
+		(pts
+			(xy 246.38 391.16) (xy 289.56 391.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff9073dc-0b66-4199-8dab-d7072f07a97b")
 	)
 	(wire
 		(pts
@@ -23186,6 +23430,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N5819")
+		(at 246.38 334.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "06675868-0e8b-4dbc-892a-13467eb12a85")
+		(property "Reference" "D3"
+			(at 249.428 330.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N5819"
+			(at 243.586 331.216 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 246.38 338.455 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.vishay.com/docs/88525/1n5817.pdf"
+			(at 246.38 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "40V 1A Schottky Barrier Rectifier Diode, DO-41"
+			(at 246.38 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d02fd423-c250-4a2f-9004-d99bc9ca941a")
+		)
+		(pin "2"
+			(uuid "62b8ca0a-f011-4dc8-8d2b-453264c42274")
+		)
+		(instances
+			(project "Betula_Main"
+				(path "/2bd965ca-4477-4be1-9f93-d7424373be9b"
+					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 31.115 147.32 90)
 		(unit 1)
@@ -24925,6 +25236,78 @@
 		)
 	)
 	(symbol
+		(lib_id "Regulator_Switching:R-785.0-0.5")
+		(at 246.38 382.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "13c14221-d068-4514-b927-89a2b28d48d4")
+		(property "Reference" "U18"
+			(at 249.174 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R-78K5-0.5 "
+			(at 246.38 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Eigenes:Converter_DCDC_RECOM_R-78K"
+			(at 247.65 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.recom-power.com/pdf/Innoline/R-78xx-0.5.pdf"
+			(at 246.38 382.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "500mA Step-Down DC/DC-Regulator, 6.5-18V input, 5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3"
+			(at 246.38 382.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f7018dda-8619-4594-9be1-c8aada27a7a4")
+		)
+		(pin "3"
+			(uuid "1354b5c6-9bf2-453b-b89f-c59a22d83fe0")
+		)
+		(pin "2"
+			(uuid "3bd24c49-bd3f-43ef-b7c4-c5be2b67c696")
+		)
+		(instances
+			(project "Betula_Main"
+				(path "/2bd965ca-4477-4be1-9f93-d7424373be9b"
+					(reference "U18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 549.275 308.61 270)
 		(unit 1)
@@ -25647,129 +26030,6 @@
 			(project "Betula_Main"
 				(path "/2bd965ca-4477-4be1-9f93-d7424373be9b"
 					(reference "C56")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MyLib:PXO7806-500-M-TR")
-		(at 254 344.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1baedc6c-5b01-461e-aef8-284501fa843c")
-		(property "Reference" "PS1"
-			(at 254 335.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PXO7806-500-M-TR"
-			(at 254 337.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Eigenes:CONV_PXO7803-500-M-TR"
-			(at 254 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 254 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 254 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 254 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "CUI"
-			(at 254 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "1.0"
-			(at 254 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" "PXO7806-500-M-TR"
-			(at 254 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "4.5 mm"
-			(at 254 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3de53c58-685d-46c1-9cb2-8f6da9d637b7")
-		)
-		(pin "3"
-			(uuid "53ebf611-16a4-441c-a6ab-ad7c0e6360da")
-		)
-		(pin "4"
-			(uuid "020da785-5e2f-42b3-9846-15ef67d0e6bd")
-		)
-		(instances
-			(project "Betula_Main"
-				(path "/2bd965ca-4477-4be1-9f93-d7424373be9b"
-					(reference "PS1")
 					(unit 1)
 				)
 			)
@@ -28084,129 +28344,6 @@
 		)
 	)
 	(symbol
-		(lib_id "MyLib:PXO7803-500-M-TR")
-		(at 254 364.49 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "32858bbc-d522-4a91-99e9-300b0265112b")
-		(property "Reference" "PS2"
-			(at 254 354.965 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PXO7803-500-M-TR"
-			(at 254 357.505 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Eigenes:CONV_PXO7803-500-M-TR"
-			(at 254 364.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 254 364.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 254 364.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" "PXO7803-500-M-TR"
-			(at 254 364.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "CUI"
-			(at 254 364.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "1.0"
-			(at 254 364.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 254 364.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "4.5 mm"
-			(at 254 364.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "829863ea-4c3d-41e3-b930-218b9d32f178")
-		)
-		(pin "3"
-			(uuid "c008152f-093e-44ed-a5ae-866a8c9a0ea8")
-		)
-		(pin "4"
-			(uuid "0dcc05c0-5fcf-40d0-82c3-14d1ea8900a7")
-		)
-		(instances
-			(project "Betula_Main"
-				(path "/2bd965ca-4477-4be1-9f93-d7424373be9b"
-					(reference "PS2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GNDD")
 		(at 177.165 194.31 0)
 		(unit 1)
@@ -28267,6 +28404,78 @@
 			(project "Betula_Main"
 				(path "/2bd965ca-4477-4be1-9f93-d7424373be9b"
 					(reference "#PWR0148")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Regulator_Switching:R-786.5-0.5")
+		(at 246.38 341.63 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "35f17a1b-860a-48f9-a1a0-13c6ccb51603")
+		(property "Reference" "U17"
+			(at 249.174 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R-78K6.5-0.5 "
+			(at 246.38 337.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Eigenes:Converter_DCDC_RECOM_R-78K"
+			(at 247.65 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.recom-power.com/pdf/Innoline/R-78xx-0.5.pdf"
+			(at 246.38 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "500mA Step-Down DC/DC-Regulator, 8-32V input, 6.5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3"
+			(at 246.38 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6e015cf8-82b8-4787-92fe-652d241c20e9")
+		)
+		(pin "3"
+			(uuid "6af0b4e4-cf5f-48aa-98f2-8413bf20826b")
+		)
+		(pin "1"
+			(uuid "5ee115b5-5921-4e6c-9d9a-3ef1495166d7")
+		)
+		(instances
+			(project "Betula_Main"
+				(path "/2bd965ca-4477-4be1-9f93-d7424373be9b"
+					(reference "U17")
 					(unit 1)
 				)
 			)
@@ -35576,6 +35785,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N5819")
+		(at 246.38 375.92 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "831f5e4f-7ec5-4e02-8ac1-b2ccf5b0ba05")
+		(property "Reference" "D5"
+			(at 251.968 374.142 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N5819"
+			(at 246.38 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 246.38 380.365 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.vishay.com/docs/88525/1n5817.pdf"
+			(at 246.38 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "40V 1A Schottky Barrier Rectifier Diode, DO-41"
+			(at 246.38 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aeb3dbee-9fd9-47fc-a13e-f63bef863bcf")
+		)
+		(pin "2"
+			(uuid "859aefa9-dc2e-4582-b43f-1776d0f96001")
+		)
+		(instances
+			(project "Betula_Main"
+				(path "/2bd965ca-4477-4be1-9f93-d7424373be9b"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 83.82 157.48 0)
 		(mirror y)
@@ -39525,6 +39801,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N5819")
+		(at 246.38 355.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "af4e612e-61b3-4ee8-a62e-8b9660300932")
+		(property "Reference" "D4"
+			(at 249.428 352.806 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N5819"
+			(at 243.586 353.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 246.38 360.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.vishay.com/docs/88525/1n5817.pdf"
+			(at 246.38 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "40V 1A Schottky Barrier Rectifier Diode, DO-41"
+			(at 246.38 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b1866f0a-d3d2-4e11-b613-e8775dfcece6")
+		)
+		(pin "2"
+			(uuid "ff30ed04-9ee3-4d23-b45a-4d62850d6441")
+		)
+		(instances
+			(project "Betula_Main"
+				(path "/2bd965ca-4477-4be1-9f93-d7424373be9b"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 30.48 255.905 90)
 		(unit 1)
@@ -41484,129 +41827,6 @@
 			(project "Betula_Main"
 				(path "/2bd965ca-4477-4be1-9f93-d7424373be9b"
 					(reference "C34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MyLib:PXO7805-500-M-TR")
-		(at 254 384.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ca0b2f8c-4656-4d85-9045-fed9c8abef5d")
-		(property "Reference" "PS3"
-			(at 254 375.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PXO7805-500-M-TR"
-			(at 254 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Eigenes:CONV_PXO7803-500-M-TR"
-			(at 254 384.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 254 384.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 254 384.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" "PXO7805-500-M-TR"
-			(at 254 384.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 254 384.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "1.0"
-			(at 254 384.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "CUI"
-			(at 254 384.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "4.5 mm"
-			(at 254 384.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "385a7e44-60ea-4753-9d4d-4fc499bf4ea9")
-		)
-		(pin "3"
-			(uuid "6c5f8962-b222-453f-a468-7dd6ebff79c9")
-		)
-		(pin "4"
-			(uuid "ce103155-daf9-4442-bb58-e18d48b4918a")
-		)
-		(instances
-			(project "Betula_Main"
-				(path "/2bd965ca-4477-4be1-9f93-d7424373be9b"
-					(reference "PS3")
 					(unit 1)
 				)
 			)
@@ -45772,6 +45992,78 @@
 			(project "Betula_Main"
 				(path "/2bd965ca-4477-4be1-9f93-d7424373be9b"
 					(reference "U9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Regulator_Switching:R-783.3-0.5")
+		(at 246.38 361.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f95b8a4d-77d6-43a6-856c-74443ffd342c")
+		(property "Reference" "U19"
+			(at 249.174 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R-78K3.3-0.5 "
+			(at 246.38 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Eigenes:Converter_DCDC_RECOM_R-78K"
+			(at 247.65 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.recom-power.com/pdf/Innoline/R-78xx-0.5.pdf"
+			(at 246.38 361.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "500mA Step-Down DC/DC-Regulator, 4.75-18V input, 3.3V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3"
+			(at 246.38 361.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7b7fd164-e86b-4161-8014-3c5a4023f0df")
+		)
+		(pin "3"
+			(uuid "6a8b8686-9938-4cad-81e2-49d3ba8558b9")
+		)
+		(pin "1"
+			(uuid "47406ba5-c72b-49f4-8483-8300a60c4604")
+		)
+		(instances
+			(project "Betula_Main"
+				(path "/2bd965ca-4477-4be1-9f93-d7424373be9b"
+					(reference "U19")
 					(unit 1)
 				)
 			)
