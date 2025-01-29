@@ -34,8 +34,23 @@ If you want to publish derivative work, please do so under same license as origi
 (Without connected ADTA-signal:
 14mA @ +12V and 0mA @ -12V)
 
+## [Blattwerk - Salix](https://github.com/Cs4System/Eurorack/tree/main/Salix)
+
+- VCF based on the Moog Transistor Ladder Filter
+- Compensation for loss of bass in high resonance settings via potentiometer
+- 6,12,18,24 dB/Oct selectable via potentiometer or CV!
+- 2 Inputs with attenuator for audio and CV
+- Seperate V/Oct input.
+- Input-Drive indicator LED
+- 8HP
+- small and dense SMD build (0603, SOIC, SOT-363!) Not a beginner build, please be sure to have some SMD-soldering practice!
+- 45mA @ +12V and 25mA @ -12V
+- quick demo: https://youtu.be/XMdGtwIK5IQ
+
+
 ## [Transistor Ladder VCF](https://github.com/Cs4System/Eurorack/tree/main/Transistor_Ladder_VCF)
 
+- Deprecated version of [Salix VCF](https://github.com/Cs4System/Eurorack/tree/main/Salix)
 - VCF based on the Moog Transistor Ladder Filter
 - Compensation for loss of bass in high resonance settings via potentiometer
 - 6,12,18,24 dB/Oct selectable via potentiometer or CV!
